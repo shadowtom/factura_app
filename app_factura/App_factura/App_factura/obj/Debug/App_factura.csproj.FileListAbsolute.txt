@@ -1,0 +1,16 @@
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\app_factura\App_factura\App_factura\bin\Debug\App_factura.exe.config
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\bin\Debug\App_factura.exe.config
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\bin\Debug\App_factura.exe
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\bin\Debug\App_factura.pdb
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\bin\Debug\Lib_factura.dll
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\bin\Debug\Ln_factura.dll
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\bin\Debug\Lib_factura.pdb
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\bin\Debug\Ln_factura.pdb
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.csprojResolveAssemblyReference.cache
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.Form1.resources
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.Properties.Resources.resources
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.csproj.GenerateResource.cache
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.csproj.CoreCompileInputs.cache
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.csproj.CopyComplete
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.exe
+C:\Users\Tomasfelipe\Documents\Visual Studio 2017\app_factura\App_factura\App_factura\obj\Debug\App_factura.pdb

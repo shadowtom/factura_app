@@ -1,0 +1,5 @@
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\Lib_factura\Lib_factura\bin\Debug\Lib_factura.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\Lib_factura\Lib_factura\bin\Debug\Lib_factura.pdb
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\Lib_factura\Lib_factura\obj\Debug\Lib_factura.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\Lib_factura\Lib_factura\obj\Debug\Lib_factura.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\Lib_factura\Lib_factura\obj\Debug\Lib_factura.pdb
